@@ -93,6 +93,10 @@
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
+  max-width:1200px;
+}
+.logo11{
+  max-width: 120px;
 }
 .cta {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/pearl333.png") fixed bottom center;
