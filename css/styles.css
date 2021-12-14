@@ -98,6 +98,11 @@
 .logo11{
   max-width: 120px;
 }
+.text-right{
+  float: right;
+  padding-top:33px;
+  padding-right:55px;
+}
 .cta {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/pearl333.png") fixed bottom center;
   background-size: cover;
